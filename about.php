@@ -37,7 +37,7 @@
     }
   </style>
   <!-- include navbar -->
-  <?php include 'header.php'; ?>
+  <?php include './header'; ?>
 
 
   <div id="main">
@@ -88,7 +88,7 @@
     </p>
   </div>
   <!-- include navbar -->
-  <?php include 'footer.php'; ?>
+  <?php include './footer'; ?>
 
   <object data="resume/W-resume.pdf" type="application/pdf" width="100%" height="800px">
     <p>Unable to display PDF. Please <a href="resume/W-resume.pdf">download</a> to view it.</p>

@@ -12,7 +12,7 @@
 
 <body>
   <!-- include navbar -->
-  <?php include 'header.php'; ?>
+  <?php include './header'; ?>
 
   <!-- Header -->
   <div id="header">
@@ -39,7 +39,7 @@
         upon what is bad in the computer
       </h2>
     </header>
-    <?php include 'links.php'; ?>
+    <?php include './links'; ?>
     <div class="box alt container">
       <section class="feature left">
         <a href="https://www.oo-software.com/en/shutup10" class="image icon solid fa-signal"><img src="images/pic01.jpg" alt=""></a>
@@ -121,7 +121,7 @@
           </div>
         </div>
       </form>
-      <?php include 'footer.php'; ?>
+      <?php include './footer'; ?>
     </div>
   </div>
 </body>

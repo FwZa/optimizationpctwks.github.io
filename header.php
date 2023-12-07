@@ -3,11 +3,11 @@
 <ul>
   <li><a class="active" href="./">Home</a></li>
   <li class="dropdown">
-    <a href="./Tools.php">Tools</a>
+    <a href="./Tools">Tools</a>
   </li>
-  <li><a href="./about.php">About</a></li>
-  <li><a href="./JoinUs.php">Join Us</a></li>
-  <li><a href="./contact.php">Contact</a></li>
+  <li><a href="./about">About</a></li>
+  <li><a href="./JoinUs">Join Us</a></li>
+  <li><a href="./contact">Contact</a></li>
 </ul>
 
 <style>

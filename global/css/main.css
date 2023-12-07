@@ -196,25 +196,7 @@ li a:hover {
   display: block;
 }
 /*  /index  */
-/*
-table{
-  border: 1px solid;
-  color: black;
-  width: 60%;
-  position: relative;
-  left: 279px;
-  bottom: 184px;
-  z-index: 10;
-}
 
-th, td {
-  border-bottom: 1px solid #DDD;
-  text-align: center;
-  padding: 0px 10px;
-  vertical-align: middle;
-}
-tr:hover {background-color: #D6EEEE;}
-*/
 /*  Table  */
 table {
   border-collapse: collapse;

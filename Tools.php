@@ -52,7 +52,7 @@
   ?>
 
   <!-- include navbar -->
-  <?php include 'header.php'; ?>
+  <?php include './header'; ?>
 
 
   <div id="main">
@@ -107,6 +107,6 @@
         </div>
       </section>
     </div>
-    <?php include 'footer.php'; ?>
+    <?php include './footer'; ?>
 </body>
 </html>

@@ -12,7 +12,7 @@
 
 <body>
   <!-- include navbar -->
-  <?php include 'header.php'; ?>
+  <?php include './header'; ?>
 
   <footer class="major container medium">
     <h3>Get shady with science</h3>
@@ -26,7 +26,7 @@
       </li>
     </ul>
   </footer>
-  <?php include 'footer.php'; ?>
+  <?php include './footer'; ?>
 </body>
 
 </html>

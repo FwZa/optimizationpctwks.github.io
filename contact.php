@@ -13,7 +13,7 @@
 <body>
   <script src="validation.js"></script>
   <!-- include navbar -->
-  <?php include 'header.php'; ?>
+  <?php include './header'; ?>
   <div id="footer">
     <div class="container medium">
       <header class="major last">
@@ -90,7 +90,7 @@
         </fieldset>
       </form>
       <div id="submissionMessage" style="display: none;"></div>
-      <?php include 'footer.php'; ?>
+      <?php include './footer'; ?>
     </div>
   </div>
 </body>
