@@ -21,7 +21,7 @@
       </header>
 
       <!-- Form  -->
-      <form id="feedbackForm" action="submit.php" method="post" onsubmit="return validateFormAndShowMessage()">
+      <form id="feedbackForm" action="./submit" method="post" onsubmit="return validateFormAndShowMessage()">
         <fieldset>
           <legend>Personal Information</legend>
 
