@@ -1,9 +1,0 @@
-/* Hide all elements on the page except the table and its contents */
-ul,
-.major {
-  display: none;
-}
-
-table {
-  height: 50%;
-}
